@@ -1,6 +1,5 @@
-# Ray Trace
-This project implent ray trace using kd-tree and 
-![](output/2planeLight_4sampling_model_worldmap.bmp)
+# Ray Trace 
+![](example/2planeLight_4sampling_model_worldmap.bmp)
 ## make
 ```bash
 make
