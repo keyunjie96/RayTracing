@@ -7,7 +7,7 @@ make
 ## usage
 ```bash
 # take 3 mins
-./ray_tracer cfg/light.txt sample/light.txt output/light.bmp
+./ray_tracer cfg/light.txt output/light.bmp
 # take about half a day
-./ray_tracer cfg/heavy.txt sample/heavy.txt output/heavy.bmp
+./ray_tracer cfg/heavy.txt output/heavy.bmp
 ```
