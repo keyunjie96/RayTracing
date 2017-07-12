@@ -6,6 +6,7 @@ make
 ```
 ## usage
 ```bash
+mkdir output
 # take 3 mins
 ./ray_tracer cfg/light.txt output/light.bmp
 # take about half a day
